@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anjolok1997
-- I studied microbiology/Biotechnology in university but I found myself end up having a career in data. 
+- I studied microbiology/Biotechnology in university but along the way I found myself more interested in coding than growing cells in the lab. I am now working in data. 
 - I am a self taught Python programmer and I had recieved training specilise in data science and data engineering in my previous job. 
 - 👀 I’m interested in data engineering/data science. I am also interested in software development and hoping to build some projects in the future. 
 - 🌱 I’m currently learning CICD/container/docker/kubernetes/cloud computing. I am always learning and exploring new ideas and technology. 
